@@ -5,7 +5,7 @@
 # 💫 About Me:
 I’m Kanupriya Sharma, a Software Developer who loves building scalable systems, solving complex problems, and creating clean, reliable code. I work across backend, full-stack, and embedded systems, and during my internship at Smowcode, I developed STM32 driver libraries and GSM module integrations for their visual embedded IDE.
 
-I’m also deeply into competitive programming and DSA, with a LeetCode peak rating of 1750. Algorithmic thinking is a big part of how I approach software like writing efficient logic, optimizing performance, and designing systems that scale.
+I’m also deeply into competitive programming and DSA, with a LeetCode peak rating of 1857. Algorithmic thinking is a big part of how I approach software like writing efficient logic, optimizing performance, and designing systems that scale.
 
 I enjoy learning new things, experimenting, and building products that are useful and meaningful.
 
