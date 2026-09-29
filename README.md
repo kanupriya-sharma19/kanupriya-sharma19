@@ -3,9 +3,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-I’m Kanupriya Sharma, a Software Developer who loves building scalable systems, solving complex problems, and creating clean, reliable code. I work across backend, full-stack, and embedded systems, and during my internship at Smowcode, I developed STM32 driver libraries and GSM module integrations for their visual embedded IDE.
+I’m Kanupriya Sharma, a Software Developer who loves building scalable systems, solving complex problems, and creating clean, reliable code. I’m a final-year Computer Engineering student with a **9.53 CGPA**, working across **full-stack and AI applications**.
 
-I’m also deeply into competitive programming and DSA, with a LeetCode peak rating of 1857. Algorithmic thinking is a big part of how I approach software like writing efficient logic, optimizing performance, and designing systems that scale.
+I’ve interned at **UBS**, where I worked on a production banking codebase and built an **LLM-powered skill** and at **Smowcode**, where I developed STM32 driver libraries and GSM module integrations for their visual embedded IDE.
+
+
+I’m also deeply into competitive programming and DSA, with a LeetCode peak rating of 1865. Algorithmic thinking is a big part of how I approach software like writing efficient logic, optimizing performance, and designing systems that scale.
 
 I enjoy learning new things, experimenting, and building products that are useful and meaningful.
 
@@ -33,6 +36,11 @@ I enjoy learning new things, experimenting, and building products that are usefu
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=googlebard&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
